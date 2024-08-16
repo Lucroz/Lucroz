@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao  meu perfil 🖤 
 
-<!--
-**Lucroz/Lucroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu  nome  é kaique
 
-Here are some ideas to get you started:
+- Estou estudado na Alura
+- Estou me  desenvolvendo na linguagem JavaScript
+- Utilizo esse  espaço para minha  organização e compartilhamento dos  meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/l1Sm0NToHmsAAAAC/torture.gif )
+- ![](https://media.tenor.com/Vwg-hvlo7FAAAAAi/gaming-genshin.gif)
+- ![](https://media.tenor.com/ST1yMbfELuwAAAAi/genshin-genshin-impact.gif)
+- ![](https://media.tenor.com/JQ6PRc_JymoAAAAi/aalto-wuthering-waves.gif)
+
